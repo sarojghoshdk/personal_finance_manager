@@ -1,0 +1,5 @@
+ID,Amount,Category,Date,Type
+12,2500.0,Food,2024-11-17,income
+13,25000.0,Salary,2024-11-14,income
+14,4500.0,Grosary,2024-11-2,expense
+15,6000.0,Grosary,2024-11-17,expense
