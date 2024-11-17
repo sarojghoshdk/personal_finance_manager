@@ -22,19 +22,19 @@ Step-by-Step Installation
 ### 1.	Clone or Download the Project
 o	Clone the repository from GitHub or download it as a ZIP file and extract it.
 
--- git clone https://github.com/sarojghoshdk/personal_finance_manager.git
+    git clone https://github.com/sarojghoshdk/personal_finance_manager.git
 
 
 ### 2.	Navigate to the Project Directory
 
--- cd personal_finance_manager
+    cd personal_finance_manager
 
 ### 3.	 Install Required Python Packages
 •	This project primarily uses built-in Python libraries, so no additional packages are required.
 ### 4.	 Run Initial Setup
 •	Run the setup_db for the first time to initialize the database.
 
-python setup_db.py
+    python setup_db.py
 
 
 # Setup
